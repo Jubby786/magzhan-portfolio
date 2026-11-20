@@ -47,10 +47,3 @@ The V2I capstone is marked **In Progress**. Smart irrigation is identified as a 
 All content, CSS, and JavaScript are in `index.html`. Edit the `:root` variables for colors. Project descriptions are in `#projects`; GitHub links are in `#contact`.
 
 Google Fonts are optional external requests; system fonts are used when they cannot load. There is no contact form, tracking script, API key, backend, or paid dependency.
-
-## Тебе для хакатона
-
-- Ссылка на сайт: https://jubby786.github.io/magzhan-portfolio/
-- Ссылка на код: https://github.com/Jubby786/magzhan-portfolio
-- Для запуска на ноутбуке достаточно открыть `index.html`.
-- После изменения кода и коммита в `main` дождись успешной публикации в **Actions**.
